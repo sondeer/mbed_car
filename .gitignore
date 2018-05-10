@@ -1,0 +1,4 @@
+BUILD/
+JLink*
+*.scvd
+/mbed-dev.lib
